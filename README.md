@@ -1,5 +1,4 @@
 # What is this
-***video*** 
 
 ![Picture of Maze From Above](./images/maze-top-no-arrows.png)
 
