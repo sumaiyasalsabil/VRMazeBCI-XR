@@ -48,7 +48,7 @@ python3 -m mindaffectBCI.online_bci
 
 5. Two new terminal windows should pop up. Ensure the message is as follows. Leave them running in the background.
 
-   ***insert pic of terminal windows and explain each***
+
 
 ___
 
